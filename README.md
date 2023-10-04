@@ -9,7 +9,6 @@ I'm Olugbemiga Ojumu, and you can call me Olu for short. I'm the Co-founder and 
 📫 How to reach me:
 You're also most welcome to engage with me both here on Github, as well as:
 LinkedIn: https://www.linkedin.com/in/olugbemiga-ojumu
-Twitter (now X): 
 
 Happy to connect and share my thoughts, codes, and libraries. Keep rocking it! 
 
