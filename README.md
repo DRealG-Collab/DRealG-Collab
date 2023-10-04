@@ -2,7 +2,7 @@
 
 I'm Olugbemiga Ojumu, and you can call me Olu for short. I'm the Co-founder and COO at Becoming YOU Academy and a Software Test Automation Engineer in the making. 
 
-🌱 I’m currently learning about how to use JavaScript and Python for Test automation and 
+🌱 I’m currently learning about how to use JavaScript and Python for Test automation
 
 👯 I’m looking to collaborate in this regard, and would appreciate your support in making this a reality for me.
 
